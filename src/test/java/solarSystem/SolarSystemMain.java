@@ -14,5 +14,11 @@ public class SolarSystemMain {
         xros.temp="2451NN";
         xros.size="0KM";
 
+        Planet2 perox = new Planet2();
+        perox.color="Green";
+        perox.size="1m";
+        perox.radius="3m";
+
+
     }
 }
