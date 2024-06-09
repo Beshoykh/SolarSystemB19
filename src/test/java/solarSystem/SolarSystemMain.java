@@ -1,5 +1,8 @@
 package solarSystem;
 
+import planets.Planet1;
+import planets.Planet2;
+
 public class SolarSystemMain {
     public static void main(String[] args) {
         SolarSystemBasics solarS = new SolarSystemBasics();
